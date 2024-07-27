@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Web Design</title>
+</head>
+
+<body>
+    <header class="header">
+        <div class="h1">
+            <a href="#"><i class="fa-solid fa-user"></i> Customer Login</a>
+            <a href="#"><i class="fa-regular fa-file"></i> Not a member?<span> Register</span></a>
+            <a>Call As Now : 98765 43210</a>
+        </div>
+        <div class="h2">
+            <a href=" #"><i class="fa-brands fa-facebook-f"></i></a>
+            <a href=" #"><i class="fa-brands fa-twitter"></i></a>
+            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+        </div>
+    </header>
+    <nav class="navbar">
+        <h1>V<span>O</span>YAGE</h1>
+        <ul class="nav">
+            <li><a href="#home">HOME</a></li>
+            <li><a href="##spl">SPECIALS</a></li>
+            <li><a href="##hd">HOLIDAYS</a></li>
+            <li><a href="#blog">BLOG</a></li>
+            <li><a href="#contact">CONTACT US</a></li>
+            <li><a><i class="fa-solid fa-magnifying-glass"></i></a></i>
+        </ul>
+
+    </nav>
+    <article>
+        <section class="section1" id="#home">
+            <div class="bg">
+                <img src="./img/img3.jpg" alt="cover">
+
+
+                <div class="s1">
+                    <h1>TO TRAVEL IS TO LIVE</h1>
+                    <p>WELCOME May All Who Enter As Guests,Leave As Friends</p>
+                    <div class="btn">
+                        <button>SHOW ON THE MAP</button>
+                        <button>MORE INFO</button>
+                    </div>
+                </div>
+                
+            </div>
+        </section>
+
+        <section class="section2" id="#spl">
+            <h3>SPECIAL OFFERS</h3>
+            <i>Best 2024 packages where people love to stay!</i>
+            <div class="image-row">
+                <div class="content">
+                    <img src="./img/img4.jpg" alt="">
+                    <p>Glass view room</p>
+                </div>
+                <div class="content">
+                    <img src="./img/img5.jpg" alt="">
+                    <p>Single cot room</p>
+                </div>
+                <div class="content">
+                    <img src="./img/img1.jpg" alt="">
+                    <P>Double cot room</P>
+                </div>
+                <div class="content">
+                    <img src="./img/img7.jpg" alt="">
+                    <P>Suite room</P>
+                </div>
+                <div class="content">
+                    <img src="./img/img9.jpg" alt="">
+                    <P>Balcony view room</P>
+                </div>
+            </div>
+
+        </section>
+
+        
+
+        <section class="section4" id="blog">
+            <h2>HAPPY CLIENTS</h2>
+            <P>What Customer say about us and why love our services!</P>
+            <div class="p">
+
+                <p>Our stay was exceptional!The room was immaculate and the view from the balcony was breathtaking.<span>Client Name</span></p>
+                <div class="p">
+                    <p>The room was spacious and comfortable,and the location was perfect for exploring the city.The complementary breakfast was a nice touch too.<span>Client Name</span>
+                    </p>
+                </div>
+                <p>For the price,this hotel exceeded my expectations.The room was modern and well equipped,and the staff was friendly and attentive. <span>Client Name
+                        </sapn>
+                </p>
+
+            </div>
+        </section>
+
+
+    </article>
+    <footer class="footer" id="contact">
+
+        <div class="footer-row">
+            <div class="footer-col">
+                <h3>Newsletter</h3>
+                <p>Summer is in full swing,we are excited to offer exclusive deals for out valued guests.Book now and enjoy upto 30% off an all room bookings till NOV 30th! Don't miss out on the chance for a luxurious stay at our beautiful hotel.</p>
+                <div class="btn">
+                    <input type="text" placeholder="Subscribe">
+                    <button>GO</button>
+                </div>
+
+            </div>
+
+            <div class="footer-col">
+                <h3>Latest News</h3>
+                <img src="./images/i1.jpg" alt="view">
+                <P>Where fashion and luxury meet comfort <span><br>October9,2024-1 pm</span></P>
+                <img src="./images/i3.jpg" alt="view">
+                <P>luxurious hotel rooms!<span><br>October9,2024-1 pm</span></P>
+
+            </div>
+
+
+            <div class="footer-col">
+                <h3>Tags</h3>
+                <ul class="links">
+                    <li><a href="#">AgentLogin</a></li>
+                    <li><a href="#">Customer Login</a></li>
+                    <li><a href="#">Not a Member?</a></li>
+                    <li><a href="#">Contact</a></li>
+                    <li><a href="#">New Horizons</a></li>
+                    <li><a href="#">Landscape</a></li>
+                    <li><a href="#">Tags</a></li>
+                    <li><a href="#">Nice</a></li>
+                    <li><a href="#">Rooms</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-col">
+                <h3>Address</h3>
+                <P>ccddeeff llmmnnnoo Hable,14cb,12345 Italy.<br><span>E-mail : </span> modern@dcba.org</P>
+                <div class="icons">
+                    <i class="fa-brands fa-facebook-f"></i>
+                    <i class="fa-brands fa-twitter"></i>
+                    <i class="fa-brands fa-pinterest"></i>
+                    <i class="fa-brands fa-instagram"></i>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer-row2">
+            <div class="f1">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Destinations </a></li>
+                    <li><a href="#">Cruises </a></li>
+                    <li><a href="#">Specials </a></li>
+                    <li><a href="#">Holidays </a></li>
+                    <li><a href="#">Blog </a></li>
+                    <li><a href="#">Contact Us</a></li>
+                </ul>
+                <P>Copyright &copy;Voyage. All Right Reserved.</P>
+            </div>
+        </div>
+
+    </footer>
+</body>
+
+</html>
